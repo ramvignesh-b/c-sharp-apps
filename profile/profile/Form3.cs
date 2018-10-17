@@ -16,7 +16,6 @@ namespace profile
         public Form3()
         {
             InitializeComponent();
-            label1.ForeColor = Color.Black;
         }
 
         private void button1_Click(object sender, EventArgs e)

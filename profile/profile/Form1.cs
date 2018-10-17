@@ -13,8 +13,7 @@ namespace profile
 {
     public partial class Form1 : Form
     {
-
-        public static string name, age, num, birth, mail, gender, pass, filename, add;
+        public static string name, age, num, birth, mail, gender, pass, filename;
         public static bool[] checkIt = new bool[3];
         public static Image image;
         Regex alphabet = new Regex("^[a-zA-Z]+$");
@@ -56,7 +55,6 @@ namespace profile
                 image = pictureBox1.Image;
                 pass = textBox3.Text;
                 num = mobile.Text;
-                add = textBox5.Text;
                 for (int j = 0; j < 3; j++)
                 {
                     if (checkedListBox1.GetItemChecked(j))

@@ -33,13 +33,12 @@ namespace profile
             label2.Text = "Age: " + Form1.age +   " D.O.B: " + Form1.birth;
             label3.Text = "Gender: " + Form1.gender;
             label4.Text = "Contact: " + Form1.num;
-            label16.Text = "Address : ";
+
             label13.Text = Form1.mail;
             label14.Text = Form1.pass;
             label10.Text = Form1.checkIt[0].ToString();
             label11.Text = Form1.checkIt[1].ToString();
             label12.Text = Form1.checkIt[2].ToString();
-            label15.Text = Form1.add;
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

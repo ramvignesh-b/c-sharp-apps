@@ -1,0 +1,11 @@
+C:\Users\RamVignesh\source\repos\paintApp\queries\bin\Debug\queries.exe.config
+C:\Users\RamVignesh\source\repos\paintApp\queries\bin\Debug\queries.exe
+C:\Users\RamVignesh\source\repos\paintApp\queries\bin\Debug\queries.pdb
+C:\Users\RamVignesh\source\repos\paintApp\queries\obj\Debug\queries.Form1.resources
+C:\Users\RamVignesh\source\repos\paintApp\queries\obj\Debug\queries.Properties.Resources.resources
+C:\Users\RamVignesh\source\repos\paintApp\queries\obj\Debug\queries.csproj.GenerateResource.cache
+C:\Users\RamVignesh\source\repos\paintApp\queries\obj\Debug\queries.csproj.CoreCompileInputs.cache
+C:\Users\RamVignesh\source\repos\paintApp\queries\obj\Debug\queries.exe
+C:\Users\RamVignesh\source\repos\paintApp\queries\obj\Debug\queries.pdb
+C:\Users\RamVignesh\source\repos\paintApp\queries\bin\Debug\test.mdb
+C:\Users\RamVignesh\source\repos\paintApp\queries\obj\Debug\queries.csprojAssemblyReference.cache
